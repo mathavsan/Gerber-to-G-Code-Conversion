@@ -17,19 +17,6 @@ Copper CAM
 11. Go to machine/ Contours/calculate Contours</br>
 12. Go to machine/mill and select engraving you will get the g code,similarly for Drill and cut. </br>
 13. Save the G code</br>
-# Output
-
-### Contours Output
-
-
-### Engraving G Code
-
-
-### Drill G Code
-
-
-### Cutting G Code
-
 
 # Result
 
